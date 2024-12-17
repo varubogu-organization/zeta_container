@@ -25,13 +25,11 @@
 			},
 			"extensions": [
                 "ms-vscode.vscode-node-azure-pack",
-                "rust-lang.rust",
                 "MS-CEINTL.vscode-language-pack-ja",
                 "GitHub.vscode-pull-request-github",
                 "rust-lang.rust-analyzer",
                 "tamasfe.even-better-toml",
                 "dbaeumer.vscode-eslint",
-                "serayuzgur.crates",
                 "zenn.zenn-preview",
                 "donjayamanne.githistory",
                 "mhutchie.git-graph",
@@ -39,7 +37,8 @@
                 "emeraldwalk.RunOnSave",
                 "ICS.japanese-proofreading",
                 "DavidAnson.vscode-markdownlint",
-                "yzhang.markdown-all-in-one"
+                "yzhang.markdown-all-in-one",
+                "fill-labs.dependi"
             ],
 		}
 	},
