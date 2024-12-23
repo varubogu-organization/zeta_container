@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@qiita/qiita-cli": "^1.4.2",
-    "zenn-cli": "^0.1.154"
+    "@qiita/qiita-cli": "^1.6.1",
+    "zenn-cli": "^0.1.158"
   }
 }
